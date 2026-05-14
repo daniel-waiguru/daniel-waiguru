@@ -1,7 +1,7 @@
 <img src="https://img.icons8.com/color/100/000000/source-code.png"/>
 <h3 align="left">Hi there👋</h3>
 
-I'm an experienced Senior Android Engineer(Kotlin, Java), skilled in all aspects of mobile engineering with a huge passion for topics around architecture and testing. I'm a Google Certified Android Engineer with experience in both native Android and native iOS development as well as cross-platform development with Kotlin Multiplatform.
+Senior Android Software Engineer with strong expertise in Kotlin and Java, experienced across the full spectrum of mobile engineering. Passionate about building exceptional UI/UX experiences, designing scalable architectures, and delivering high-quality, well-tested applications. Google Certified Android Engineer with hands-on experience in native Android, native iOS development, and cross-platform solutions using Kotlin Multiplatform.
 
 <!--
 **DanielWaiguru91/DanielWaiguru91** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
